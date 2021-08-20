@@ -1,0 +1,16 @@
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\bin\Debug\netstandard2.0\tareamvvm.deps.json
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\bin\Debug\netstandard2.0\tareamvvm.dll
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\bin\Debug\netstandard2.0\ref\tareamvvm.dll
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\bin\Debug\netstandard2.0\tareamvvm.pdb
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\obj\Debug\netstandard2.0\tareamvvm.csproj.AssemblyReference.cache
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\obj\Debug\netstandard2.0\tareamvvm.AssemblyInfoInputs.cache
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\obj\Debug\netstandard2.0\tareamvvm.AssemblyInfo.cs
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\obj\Debug\netstandard2.0\tareamvvm.csproj.CoreCompileInputs.cache
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\obj\Debug\netstandard2.0\tareamvvm.dll
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\obj\Debug\netstandard2.0\ref\tareamvvm.dll
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\obj\Debug\netstandard2.0\tareamvvm.pdb
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\obj\Debug\netstandard2.0\View\EmpleadoPage.xaml.g.cs
+C:\Users\Jose Aguilar\source\repos\tareamvvm\tareamvvm\tareamvvm\obj\Debug\netstandard2.0\View\DetallePage.xaml.g.cs

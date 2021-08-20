@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "I6h5/P1JOrHIhX/41+DNbiPI7JuEoOWbYlC4MZIso/Tn1K0urCi6jmi8mOBuR1X9XtVEPoIH/14Lxeez9k/0cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jose Aguilar\\source\\repos\\tareamvvm\\tareamvvm\\tareamvvm\\tareamvvm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jose Aguilar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jose Aguilar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jose Aguilar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

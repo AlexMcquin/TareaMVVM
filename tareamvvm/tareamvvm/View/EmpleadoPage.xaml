@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:viewmodel="clr-namespace:tareamvvm.ViewModel" x:DataType="viewmodel:EmpleadoViewModel" 
+             x:Class="tareamvvm.View.EmpleadoPage">
+    <ScrollView>
+        <StackLayout Background="White">
+            <Label Text="{Binding Id}"></Label>
+            <Label Text="Nombre" TextColor="Black"></Label>
+            <Entry Text="{Binding Nombre}" TextColor="Black"></Entry>
+            <Label Text="Apellido" TextColor="Black"></Label>
+            <Entry Text="{Binding Apellido}" TextColor="Black"></Entry>
+            <Label Text="Edad" TextColor="Black"></Label>
+            <Entry Text="{Binding Edad}" Keyboard="Numeric" TextColor="Black"></Entry>
+            <Label Text="Direccion" TextColor="Black"></Label>
+            <Entry Text="{Binding Direccion}" TextColor="Black"></Entry>
+            <Label Text="Puesto" TextColor="Black"></Label>
+            <Entry Text="{Binding Puesto}" TextColor="Black"></Entry>
+            <Label Text="{Binding NombreCompleto}" TextColor="DarkBlue"></Label>
+            <Button Text="Guardar" Command="{Binding GuardarCommand}" BackgroundColor="Green"></Button>
+            <Button Text="Modificar" Command="{Binding ModificarCommand}" BackgroundColor="Orange"></Button>
+            <Button Text="Eliminar" Command="{Binding EliminarCommand}" BackgroundColor="Red"></Button>
+            <Button Text="Limpiar" Command="{Binding LimpiarCommand}" BackgroundColor="Blue"></Button>
+            <ActivityIndicator IsRunning="{Binding Isbusy}" IsVisible="{Binding Isbusy}"></ActivityIndicator>
+            <Label Text="Lista:" TextColor="Black"></Label>
+            <ListView x:Name="LvEmpleados" ItemsSource="{Binding Empleados}" BackgroundColor="Black">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Edad}" Detail="{Binding NombreCompleto}" TextColor="White"></TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
